@@ -1,22 +1,20 @@
-Welcome to Lumache's documentation!
+Gemwin – Cổng game giải trí trực tuyến uy tín và đa dạng
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Gemwin <https://gemwin.cafe/>`_ là một cổng game giải trí trực tuyến mới nổi tại Việt Nam, nhanh chóng khẳng định vị thế uy tín trong cộng đồng cược thủ. Được kiểm soát bởi các tổ chức cá cược quốc tế và giám sát chặt chẽ, Gemwin hoạt động an toàn và hợp pháp với máy chủ đặt tại Philippines. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Gemwin nổi bật với kho tàng game đa dạng, bao gồm nổ hũ, slot game, lô đề, cá cược thể thao, và live Casino. Bên cạnh đó, Gemwin còn mang đến trải nghiệm nạp/rút tiền nhanh chóng, dịch vụ chăm sóc khách hàng chuyên nghiệp, cùng giao diện trực quan, tối ưu hóa cho cả PC và điện thoại di động. 
 
-.. note::
+Với sự hỗ trợ tận tình từ đội ngũ chuyên viên và các tính năng hiện đại, Gemwin là điểm đến lý tưởng cho những ai yêu thích giải trí và cá cược trực tuyến.
 
-   This project is under active development.
+Thông tin liên hệ: 
 
-Contents
---------
+Địa chỉ: 110/4 ấp 5, Xuân Thới Thượng, Hóc Môn, TP. Hồ Chí Minh, Vietnam. 
 
-.. toctree::
+Phone: 0885641321. 
 
-   usage
-   api
+Email: info@gemwin.cafe. 
+
+Website: https://gemwin.cafe/ 
+
+#gemwin #nhacaigemwin #trangchugemwin #dangkygemwin #linkgemwin
